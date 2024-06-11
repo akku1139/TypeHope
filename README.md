@@ -1,0 +1,2 @@
+# TypeHope
+Super TypeScript optimizer
